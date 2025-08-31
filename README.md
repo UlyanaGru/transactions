@@ -64,8 +64,17 @@
 - Matplotlib, Seaborn, Plotly
 - Jupyter Notebook
 
+![1](https://github.com/UlyanaGru/transactions/blob/master/pic/sum.png)
+![2](https://github.com/UlyanaGru/transactions/blob/master/pic/salary.png)
+![3](https://github.com/UlyanaGru/transactions/blob/master/pic/rfm.png)
+![4](https://github.com/UlyanaGru/transactions/blob/master/pic/per%20dayhour.png)
+![5](https://github.com/UlyanaGru/transactions/blob/master/pic/coeff%20silhouette.png)
+![6](https://github.com/UlyanaGru/transactions/blob/master/pic/3d%20vis%20clusters.png)
+
 ##### Как запустить
 
+[Проект](https://github.com/UlyanaGru/transactions/blob/master/transactions.ipynb)\
+[requirements.txt](https://github.com/UlyanaGru/transactions/blob/master/requirements.txt)
 Установите зависимости:
 ```bash
 pip install -r requirements.txt
